@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vishaal Prabu 👋
 
-<!--
-**vishaalprabu/vishaalprabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech IT student and frontend/web developer interested in building responsive business websites.
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- Responsive Web Design
+- Netlify Deployment
+- SEO Basics
+- Git & GitHub
+- AI-assisted Development Workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Blooms Dental Care Website
+Responsive dental clinic website with services, doctor profile, reviews, FAQ, contact form, Google Maps, and WhatsApp appointment CTA.  
+Live: https://bloomsclinic.netlify.app/
+
+### Shree Traders Rice Website
+Responsive rice supplier business website with product catalog, quality sections, WhatsApp enquiry, custom domain, and SEO-focused pages.  
+Live: https://shreetradersrice.com/
+
+### Chandru Clicks Photography Website
+Premium wedding photography portfolio website with gallery, services, packages, reviews, Instagram link, and WhatsApp booking CTA.  
+Live: https://bright-truffle-b18be2.netlify.app/
+
+## Currently Learning
+- React
+- Tailwind CSS
+- JavaScript DOM concepts
